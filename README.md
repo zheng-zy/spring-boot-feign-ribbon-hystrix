@@ -1,2 +1,2 @@
 # spring-boot-feign-ribbon-hystrix
-1. [使用说明地址](https://blog.csdn.net/hy245120020/article/details/83655070)
+一个简单的小例子，用来构建客户端访问api的高可用方案
