@@ -1,2 +1,2 @@
 # spring-boot-feign-ribbon-hystrix
-在springboot中使用feign、ribbon、hystrix组合功能
+1. [使用说明地址](https://blog.csdn.net/hy245120020/article/details/83655070)
